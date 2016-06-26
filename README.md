@@ -1,2 +1,3 @@
-# myface_cookbook
-A cookbook for installing myface
+# myface
+
+Installs and configures myface

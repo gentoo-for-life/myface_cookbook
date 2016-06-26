@@ -1,0 +1,6 @@
+name 'myface'
+maintainer 'Tim Smith'
+maintainer_email 'tsmith@chef.io'
+license 'Apache 2.0'
+description 'Installs/Configures myface'
+version '0.1.0'
